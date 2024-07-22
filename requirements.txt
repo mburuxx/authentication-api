@@ -1,0 +1,8 @@
+express 
+dotenv 
+mongoose 
+bcryptjs 
+jsonwebtoken 
+cookie-parser
+express-async-handler
+
