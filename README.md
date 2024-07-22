@@ -46,7 +46,7 @@ This is a user authentication API built with Node.js that can be used in any app
 
 - `config/db.js`: Contains database connection logic.
 
-## Database
+# Database
 
 Ensure you have MongoDB installed and running. Configure the database connection in `config/db.js`.
 
