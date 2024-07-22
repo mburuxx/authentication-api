@@ -15,7 +15,7 @@ This is a user authentication API built with Node.js that can be used in any app
 - [Server](#server)
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
-- [License](./license)
+- [License](./LICENSE)
 
 ## Installation
 
